@@ -23,6 +23,7 @@ Currently known supported models:
 - TX-65EXW784
 - TX-L42ET50
 - TX-P42STW50
+- TX-P50GT30E
 - TX-P50GT30Y
 - TX-P50GT60E
 - TH-32ES500
